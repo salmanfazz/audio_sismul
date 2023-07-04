@@ -1,0 +1,77 @@
+Timestamp,Sebutkan rentang umur anda,Sebutkan jenis kelamin anda,Apakah anda menggunakan kacamata?,Sejak umur berapa anda menggunakan kacamata?,Berapa lama anda telah bermain game?,Berapa lama anda bermain game dalam sehari?,Jenis game apa yang anda mainkan?,Perangkat apa yang biasa anda gunakan untuk bermain game?,Jumlah,Apakah anda lebih memilih untuk belajar atau bermain game?,Apakah lebih mudah untuk menghafal pelajaran atau menghafal item / skill pada game?,Jumlah,Apakah anda merasa game dapat membantu meningkatkan daya ingat anda?,Apakah anda merasa game dapat membantu meningkatkan penalaran anda?,Apakah Anda merasa permainan yang memerlukan keterampilan taktik dan strategi membantu meningkatkan kemampuan Anda dalam mengambil keputusan?,Apakah Anda merasa stres atau cemas ketika tidak bermain game dalam waktu yang lama?,Bagaimana Anda menilai dampak bermain game pada kesehatan mental Anda?,Bagaimana Anda menilai dampak bermain game pada kesehatan fisik Anda?,"Apakah Anda mengalami sakit kepala, mata lelah, atau masalah kesehatan lainnya saat bermain game dalam waktu yang lama?",Apakah Anda merasa bermain game membuat Anda kurang tertarik pada aktivitas atau hobi lainnya?,Jumlah
+09/04/2023 15:02:33,18 - 25 Tahun,Laki Laki,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 15:10:51,26 - 35 Tahun,Laki Laki,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 15:12:54,< 18Tahun,Laki Laki,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 15:13:56,18 - 25 Tahun,Perempuan,Ya,< 18 Tahun,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 15:14:47,18 - 25 Tahun,Perempuan,Tidak,18 - 25 Tahun,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 15:14:59,18 - 25 Tahun,Laki Laki,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 15:17:31,18 - 25 Tahun,Laki Laki,Ya,18 - 25 Tahun,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 15:19:33,18 - 25 Tahun,Laki Laki,Ya,< 18 Tahun,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 15:23:12,26 - 35 Tahun,Laki Laki,Ya,18 - 25 Tahun,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 15:27:52,18 - 25 Tahun,Perempuan,Ya,< 18 Tahun,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 15:34:40,18 - 25 Tahun,Perempuan,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 15:34:46,18 - 25 Tahun,Laki Laki,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 15:37:11,26 - 35 Tahun,Laki Laki,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 15:39:10,18 - 25 Tahun,Laki Laki,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 15:47:02,18 - 25 Tahun,Laki Laki,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 15:54:53,18 - 25 Tahun,Laki Laki,Ya,< 18 Tahun,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 15:57:30,18 - 25 Tahun,Laki Laki,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 16:09:03,18 - 25 Tahun,Perempuan,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 16:10:30,18 - 25 Tahun,Perempuan,Ya,< 18 Tahun,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 16:11:47,26 - 35 Tahun,Laki Laki,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 16:18:54,18 - 25 Tahun,Laki Laki,Ya,18 - 25 Tahun,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 16:19:31,18 - 25 Tahun,Laki Laki,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 16:35:23,26 - 35 Tahun,Perempuan,Ya,18 - 25 Tahun,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 16:36:40,26 - 35 Tahun,Perempuan,Ya,< 18 Tahun,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 16:38:08,26 - 35 Tahun,Laki Laki,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 16:38:43,26 - 35 Tahun,Laki Laki,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 16:40:28,18 - 25 Tahun,Laki Laki,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 16:42:41,< 18Tahun,Perempuan,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 16:45:03,< 18Tahun,Laki Laki,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 16:46:17,26 - 35 Tahun,Perempuan,Ya,18 - 25 Tahun,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 16:48:55,> 35 Tahun,Laki Laki,Ya,> 35 Tahun,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 16:52:03,18 - 25 Tahun,Laki Laki,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 16:54:05,18 - 25 Tahun,Laki Laki,Ya,< 18 Tahun,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 16:56:16,26 - 35 Tahun,Perempuan,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 16:57:36,26 - 35 Tahun,Laki Laki,Tidak,< 18 Tahun,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 16:59:22,18 - 25 Tahun,Laki Laki,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 17:04:34,> 35 Tahun,Laki Laki,Ya,26 - 35 Tahun,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 17:05:43,18 - 25 Tahun,Laki Laki,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 17:06:26,26 - 35 Tahun,Perempuan,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 17:06:59,> 35 Tahun,Laki Laki,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 17:07:34,18 - 25 Tahun,Laki Laki,Ya,< 18 Tahun,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 17:08:09,> 35 Tahun,Perempuan,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 17:09:17,26 - 35 Tahun,Laki Laki,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 17:10:01,26 - 35 Tahun,Perempuan,Ya,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 17:10:43,26 - 35 Tahun,Perempuan,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 17:11:21,18 - 25 Tahun,Laki Laki,Ya,< 18 Tahun,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 17:11:55,> 35 Tahun,Perempuan,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 17:12:30,18 - 25 Tahun,Laki Laki,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 17:13:00,18 - 25 Tahun,Laki Laki,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 17:13:34,18 - 25 Tahun,Perempuan,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 17:14:05,< 18Tahun,Laki Laki,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 17:14:52,< 18Tahun,Laki Laki,Ya,< 18 Tahun,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 17:15:18,18 - 25 Tahun,Perempuan,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 17:15:46,< 18Tahun,Laki Laki,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 17:16:21,26 - 35 Tahun,Laki Laki,Ya,26 - 35 Tahun,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 17:17:05,26 - 35 Tahun,Laki Laki,Ya,< 18 Tahun,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 17:17:33,18 - 25 Tahun,Laki Laki,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 17:19:05,18 - 25 Tahun,Laki Laki,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 17:19:43,26 - 35 Tahun,Perempuan,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 17:20:30,18 - 25 Tahun,Perempuan,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 17:25:09,26 - 35 Tahun,Perempuan,Ya,< 18 Tahun,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 17:26:02,< 18Tahun,Perempuan,Tidak,< 18 Tahun,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 17:26:30,26 - 35 Tahun,Perempuan,Ya,< 18 Tahun,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 17:26:54,< 18Tahun,Perempuan,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 17:26:59,< 18Tahun,Laki Laki,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 17:28:30,26 - 35 Tahun,Perempuan,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 17:40:57,26 - 35 Tahun,Laki Laki,Ya,< 18 Tahun,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 17:51:27,< 18Tahun,Perempuan,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 17:51:44,26 - 35 Tahun,Laki Laki,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 18:23:25,26 - 35 Tahun,Perempuan,Ya,< 18 Tahun,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 18:26:46,26 - 35 Tahun,Laki Laki,Ya,< 18 Tahun,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 19:07:23,26 - 35 Tahun,Laki Laki,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+09/04/2023 19:31:09,26 - 35 Tahun,Perempuan,Ya,18 - 25 Tahun,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+10/04/2023 08:11:06,26 - 35 Tahun,Perempuan,Ya,26 - 35 Tahun,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+10/04/2023 09:15:59,18 - 25 Tahun,Laki Laki,Tidak,18 - 25 Tahun,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
+14/04/2023 05:16:31,18 - 25 Tahun,Laki Laki,Tidak,,1,1,1,4,7,1,1,2,1,1,1,1,1,1,1,1,8
